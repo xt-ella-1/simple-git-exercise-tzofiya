@@ -1,4 +1,4 @@
-I like to eat: <de
+I like to eat: <delete
 I like to hear: <titanic
 My hobbies are <reading.
 
