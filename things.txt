@@ -2,6 +2,10 @@ I like to eat: <delete
 I like to hear: <titanic
 My hobbies are <reading.
 
+
 I would like to travel to chicago
+
+
+
 
 " Your favorite quote goes here hay i here".
